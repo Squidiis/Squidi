@@ -1,0 +1,2 @@
+# Squidi
+Discord bot
