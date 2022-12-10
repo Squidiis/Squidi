@@ -1,2 +1,2 @@
-# Squidi
+# Shiro
 Discord bot
